@@ -1231,7 +1231,7 @@ zokou({ nomCom: "menu", categorie: "General" }, async (dest, zk, commandeOptions
         coms[com.categorie].push(com.nomCom);
     });
 
-    moment.tz.setDefault("Africa/Nairobi");
+    moment.tz.setDefault("Nigeria/Abuja");
 
 // Créer une date et une heure en EAT
 const temps = moment().format('HH:mm:ss');
@@ -1267,7 +1267,7 @@ const date = moment().format('DD/MM/YYYY');
 『𝗦𝗨𝗣𝗣𝗢𝗥𝗧』
  🪀 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏:
  ✪https://wa.me/2348027387246
- 📥 𝐓𝐄𝐋𝐄𝐆𝐑𝐀𝐌 𝐂𝐇𝐀𝐍𝐍𝐄𝐋*
+ 📥 𝐓𝐄𝐋𝐄𝐆𝐑𝐀𝐌 𝐂𝐇𝐀𝐍𝐍𝐄𝐋
  ⚉https://t.me/JohnleoTech
  🟢 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 :
  ⚉https://whatsapp.com/channel/0029VamlYh41SWssaEvw4E2i
@@ -1301,13 +1301,7 @@ const date = moment().format('DD/MM/YYYY');
 
     menuMsg += `
            
-     
-
-   
-   *█✪█▓▓▓▓▓▓▓▓▓█✪█*
-   *█✪█▓▓▓▓▓▓▓▓▓█✪█*   
-          
-      *JohnleoTech 2024🏆* 
+ 
 *❒───────────────────❒*
 `;
 
